@@ -1,5 +1,5 @@
 import React from 'react'
-import QuestionLayout from './components/AntQuestionLayout'
+import QuestionLayout from './components/QuestionLayout'
 
 const App = () => {
   return (
